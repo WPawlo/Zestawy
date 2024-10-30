@@ -1,0 +1,32 @@
+C:\Users\macsa\source\repos\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.exe
+C:\Users\macsa\source\repos\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.deps.json
+C:\Users\macsa\source\repos\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.runtimeconfig.json
+C:\Users\macsa\source\repos\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.dll
+C:\Users\macsa\source\repos\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.pdb
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.Form1.resources
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.csproj.GenerateResource.cache
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.AssemblyInfoInputs.cache
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.AssemblyInfo.cs
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.csproj.CoreCompileInputs.cache
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.dll
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\refint\SortingApp.dll
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.pdb
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.genruntimeconfig.cache
+C:\Users\macsa\source\repos\SortingApp\SortingApp\obj\Debug\net6.0-windows\ref\SortingApp.dll
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.exe
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.deps.json
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.runtimeconfig.json
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.dll
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\bin\Debug\net6.0-windows\SortingApp.pdb
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.Form1.resources
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.csproj.GenerateResource.cache
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.AssemblyInfoInputs.cache
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.AssemblyInfo.cs
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.csproj.CoreCompileInputs.cache
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.dll
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\refint\SortingApp.dll
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.pdb
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\SortingApp.genruntimeconfig.cache
+C:\Users\Roger Kontent\Desktop\SortingApp\SortingApp\obj\Debug\net6.0-windows\ref\SortingApp.dll
