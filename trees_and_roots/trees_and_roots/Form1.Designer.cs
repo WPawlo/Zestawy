@@ -34,9 +34,9 @@
             label4 = new Label();
             label5 = new Label();
             label3 = new Label();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
+            przycisk1 = new Button();
+            przycisk2 = new Button();
+            przycisk3 = new Button();
             SuspendLayout();
             // 
             // textBox1
@@ -93,32 +93,32 @@
             label3.TabIndex = 12;
             label3.Text = "Drzewa";
             // 
-            // button1
+            // przycisk1
             // 
-            button1.Location = new Point(153, 18);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 13;
-            button1.Text = "Dodaj";
-            button1.UseVisualStyleBackColor = true;
+            przycisk1.Location = new Point(153, 18);
+            przycisk1.Name = "przycisk1";
+            przycisk1.Size = new Size(75, 23);
+            przycisk1.TabIndex = 13;
+            przycisk1.Text = "Dodaj";
+            przycisk1.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // przycisk2
             // 
-            button2.Location = new Point(234, 18);
-            button2.Name = "button2";
-            button2.Size = new Size(99, 23);
-            button2.TabIndex = 14;
-            button2.Text = "RemoveFirst";
-            button2.UseVisualStyleBackColor = true;
+            przycisk2.Location = new Point(234, 18);
+            przycisk2.Name = "przycisk2";
+            przycisk2.Size = new Size(99, 23);
+            przycisk2.TabIndex = 14;
+            przycisk2.Text = "RemoveFirst";
+            przycisk2.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // przycisk3
             // 
-            button3.Location = new Point(339, 18);
-            button3.Name = "button3";
-            button3.Size = new Size(93, 23);
-            button3.TabIndex = 15;
-            button3.Text = "RemoveLast";
-            button3.UseVisualStyleBackColor = true;
+            przycisk3.Location = new Point(339, 18);
+            przycisk3.Name = "przycisk3";
+            przycisk3.Size = new Size(93, 23);
+            przycisk3.TabIndex = 15;
+            przycisk3.Text = "RemoveLast";
+            przycisk3.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -126,9 +126,9 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Snow;
             ClientSize = new Size(700, 338);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(przycisk3);
+            Controls.Add(przycisk2);
+            Controls.Add(przycisk1);
             Controls.Add(label3);
             Controls.Add(label5);
             Controls.Add(label4);
@@ -144,13 +144,13 @@
 
         #endregion
         private TextBox textBox1;
-        private Button button2;
+        private Button przycisk2;
         private Label label1;
         private Label label2;
         private Label label4;
         private Label label5;
         private Label label3;
-        private Button button1;
-        private Button button3;
+        private Button przycisk1;
+        private Button przycisk3;
     }
 }

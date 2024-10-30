@@ -12,7 +12,7 @@ namespace trees_and_roots
             label1.AutoSize = true;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void przycisk1_Click(object sender, EventArgs e)
         {
             if (int.TryParse(textBox1.Text, out int number))
             {
@@ -28,13 +28,13 @@ namespace trees_and_roots
             }
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void przycisk2_Click(object sender, EventArgs e)
         {
             list.removeFirst();
             label2.Text = "Lista: {" + list.ToString() + "}";
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void przycisk3_Click(object sender, EventArgs e)
         {
             list.removeLast();
             label2.Text = "Lista: {" + list.ToString() + "}";
