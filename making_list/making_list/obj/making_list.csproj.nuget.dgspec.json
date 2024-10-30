@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roger Kontent\\Desktop\\making_list\\making_list\\making_list.csproj": {}
+    "C:\\Users\\Roger Kontent\\Desktop\\AiSD-main\\making_list\\making_list\\making_list.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roger Kontent\\Desktop\\making_list\\making_list\\making_list.csproj": {
+    "C:\\Users\\Roger Kontent\\Desktop\\AiSD-main\\making_list\\making_list\\making_list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roger Kontent\\Desktop\\making_list\\making_list\\making_list.csproj",
+        "projectUniqueName": "C:\\Users\\Roger Kontent\\Desktop\\AiSD-main\\making_list\\making_list\\making_list.csproj",
         "projectName": "making_list",
-        "projectPath": "C:\\Users\\Roger Kontent\\Desktop\\making_list\\making_list\\making_list.csproj",
+        "projectPath": "C:\\Users\\Roger Kontent\\Desktop\\AiSD-main\\making_list\\making_list\\making_list.csproj",
         "packagesPath": "C:\\Users\\Roger Kontent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roger Kontent\\Desktop\\making_list\\making_list\\obj\\",
+        "outputPath": "C:\\Users\\Roger Kontent\\Desktop\\AiSD-main\\making_list\\making_list\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\c\\NuGetPackages"

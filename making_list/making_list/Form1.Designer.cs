@@ -40,17 +40,17 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(75, 81);
+            textBox1.Location = new Point(254, 109);
             textBox1.Margin = new Padding(3, 2, 3, 2);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(54, 23);
+            textBox1.Size = new Size(120, 23);
             textBox1.TabIndex = 0;
             // 
             // przycisk1
             // 
             przycisk1.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point);
             przycisk1.ForeColor = SystemColors.ControlText;
-            przycisk1.Location = new Point(24, 268);
+            przycisk1.Location = new Point(563, 50);
             przycisk1.Margin = new Padding(3, 2, 3, 2);
             przycisk1.Name = "przycisk1";
             przycisk1.Size = new Size(105, 22);
@@ -63,7 +63,7 @@
             // 
             label1.AutoSize = true;
             label1.ForeColor = Color.FromArgb(64, 64, 64);
-            label1.Location = new Point(24, 111);
+            label1.Location = new Point(203, 163);
             label1.Name = "label1";
             label1.Size = new Size(45, 15);
             label1.TabIndex = 2;
@@ -73,7 +73,7 @@
             // 
             przycisk2.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point);
             przycisk2.ForeColor = SystemColors.ControlText;
-            przycisk2.Location = new Point(202, 268);
+            przycisk2.Location = new Point(563, 111);
             przycisk2.Margin = new Padding(3, 2, 3, 2);
             przycisk2.Name = "przycisk2";
             przycisk2.Size = new Size(105, 22);
@@ -86,7 +86,7 @@
             // 
             przycisk3.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point);
             przycisk3.ForeColor = SystemColors.ControlText;
-            przycisk3.Location = new Point(387, 268);
+            przycisk3.Location = new Point(563, 191);
             przycisk3.Margin = new Padding(3, 2, 3, 2);
             przycisk3.Name = "przycisk3";
             przycisk3.Size = new Size(105, 22);
@@ -113,7 +113,7 @@
             label2.AutoSize = true;
             label2.BorderStyle = BorderStyle.FixedSingle;
             label2.ForeColor = Color.FromArgb(64, 64, 64);
-            label2.Location = new Point(24, 84);
+            label2.Location = new Point(203, 115);
             label2.Name = "label2";
             label2.Size = new Size(45, 17);
             label2.TabIndex = 6;
@@ -124,11 +124,11 @@
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
             label3.ForeColor = SystemColors.ControlText;
-            label3.Location = new Point(24, 9);
+            label3.Location = new Point(254, 9);
             label3.Name = "label3";
-            label3.Size = new Size(351, 32);
+            label3.Size = new Size(207, 32);
             label3.TabIndex = 7;
-            label3.Text = "DODAWANIE LICZB DO TABLICY";
+            label3.Text = "TWORZENIE LISTY";
             // 
             // Form1
             // 
