@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roger Kontent\\Desktop\\bst\\BST\\BST\\BST.csproj": {}
+    "C:\\Users\\local\\Desktop\\bst\\BST\\BST\\BST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roger Kontent\\Desktop\\bst\\BST\\BST\\BST.csproj": {
+    "C:\\Users\\local\\Desktop\\bst\\BST\\BST\\BST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roger Kontent\\Desktop\\bst\\BST\\BST\\BST.csproj",
+        "projectUniqueName": "C:\\Users\\local\\Desktop\\bst\\BST\\BST\\BST.csproj",
         "projectName": "BST",
-        "projectPath": "C:\\Users\\Roger Kontent\\Desktop\\bst\\BST\\BST\\BST.csproj",
-        "packagesPath": "C:\\Users\\Roger Kontent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roger Kontent\\Desktop\\bst\\BST\\BST\\obj\\",
+        "projectPath": "C:\\Users\\local\\Desktop\\bst\\BST\\BST\\BST.csproj",
+        "packagesPath": "C:\\Users\\local\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\local\\Desktop\\bst\\BST\\BST\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Visual Studio\\c\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Roger Kontent\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\local\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,15 +50,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
